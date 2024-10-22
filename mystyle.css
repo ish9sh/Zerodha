@@ -1,0 +1,37 @@
+.HomeNav {
+  text-decoration: none;
+  display: flex;
+  padding-left: 100px;
+  padding-right: 100px;
+  justify-content: space-between;
+}
+/* .HomeNav>div{
+    justify-content: space-between;
+}  */
+.rtl > a {
+  text-decoration: none;
+  color: black;
+  padding: 10px;
+}
+.lg svg {
+  width: 10px;
+  height: auto;
+  vertical-align: middle;
+}
+.main {
+  height: 100vh;
+  width: 100vh;
+  display: flex;
+  justify-content: center;
+}
+.main img{
+    height: 50% ;
+    width: 50%;
+
+}
+.landing {
+  text-align: center;
+}
+.lpt {
+  text-align: center;
+}
